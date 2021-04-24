@@ -2,8 +2,6 @@
 
 this is the first line in first file in this repository.
 
-##Sentence
+##Website contents
 
-the quick brown fox jumped over the lazy white dog.
-
-The five boxing wizards jump quickly
+1. index.html
