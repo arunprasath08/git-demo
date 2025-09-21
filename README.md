@@ -15,16 +15,16 @@ The project consists of a single HTML file:
 <html lang="en-US">
 
 <head>
-  <meta charset="UTF-8">
-  <title>Home page-- changes to be pushed to github</title>
+<meta charset="UTF-8">
+<title>Home page-- Managing code with github</title>
 </head>
 
 <body>
-  <nav></nav>
-  <header>My First Heading</header>
-  <main></main>
-  <p>My first paragraph.</p>
-  <footer></footer>
+<nav></nav>
+<header>My First coding project - simplet Webpage</header>
+<main></main>
+<p>I am learning coding with Python, SQL etc., and versioning by using git and hosting my code in github.</p>
+<footer></footer>
 </body>
 </html>
 ```
