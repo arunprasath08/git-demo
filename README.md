@@ -28,9 +28,10 @@ The project consists of a single HTML file:
 </body>
 </html>
 ```
+
 ---
 
-🛠️ What I Learned
+# 🛠️ What I Learned
 
 Initializing a Git repository (git init)
 
@@ -41,3 +42,19 @@ Pushing code to GitHub (git push)
 Updating files and pushing changes again
 
 Understanding how Git tracks changes in a project
+
+---
+
+# ⚡ How to Use
+
+Clone the repo:
+
+```bash
+git clone https://github.com/arunprasath08/git-demo.git
+```
+
+---
+
+🌟 Key Takeaway
+
+This project may be simple, but it marks the foundation of my journey with Git & GitHub. From here, I’ll be building and sharing more projects — step by step.
